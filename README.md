@@ -1,2 +1,2 @@
-## Justin Boyce's Projects
-# [Ultimate Tic Tac Toe](https://JustinBoyce.github.io/UltimateTicTacToe)
+### Justin Boyce's Projects
+[Ultimate Tic Tac Toe](https://JustinBoyce.github.io/UltimateTicTacToe)
